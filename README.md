@@ -145,3 +145,8 @@ This project demonstrates practical experience with:
 Project Type: Data Engineering Portfolio Project
 Dataset: Synthetic Automotive Manufacturing Data
 Platform: Databricks
+## 📊 Manufacturing Analytics Dashboard
+
+The dashboard provides insights into vehicle production, manufacturing quality, and defect rates across plants and vehicle models.
+
+![Automotive Manufacturing Dashboard](manufacturing_dashboard.png)
